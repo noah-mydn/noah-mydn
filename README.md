@@ -1,6 +1,6 @@
 ### May Yadanar - Full-Stack Web Developer 🚀
 
-📧 Contact: +959796257871 | mayyadanar@hotmail.com
+📧 Contact: mayyadanar@hotmail.com
 🌐 LinkedIn: [may-yadanar-noah](https://www.linkedin.com/in/may-yadanar-noah-8a95131bb/)
 🌐 GitHub: [noah-mydn](https://github.com/noah-mydn)
 🔗 Portfolio: [mayyadanar.netlify.app](https://mayyadanar.netlify.app/)
